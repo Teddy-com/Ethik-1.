@@ -18,5 +18,6 @@
 ## was ist der Utilitarismus?
  Es ist eine Form von der Nutzethik.
  
+Utilitarismus ist eine ethische Theorie, die besagt, dass Handlungen moralisch richtig sind, wenn sie das größtmögliche Glück für die meisten Menschen bringen
  
  
